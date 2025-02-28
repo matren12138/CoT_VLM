@@ -1,0 +1,7 @@
+bridge/__pycache__/
+bridge/kitti_format/__pycache__/
+kitti_format/__pycache__/
+kitti_dataset/
+testdata/
+*.pyc
+*.pyo
